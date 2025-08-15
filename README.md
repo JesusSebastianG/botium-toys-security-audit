@@ -1,4 +1,4 @@
-# botium-toys-security-audit
+# Botium Toys Security Audit
 
 Security audit documents for a fictional company **Botium Toys**, including scope, goals, risk assessment, controls evaluation, and compliance checklist.
 
