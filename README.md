@@ -1,6 +1,10 @@
 # Botium Toys Security Audit
 
-Security audit documents for a fictional company **Botium Toys**, including scope, goals, risk assessment, controls evaluation, and compliance checklist.
+[![Audit Draft](https://img.shields.io/badge/Status-Draft-orange)](https://github.com/) 
+[![Markdown Linted](https://img.shields.io/badge/Markdown-Linted-brightgreen)](https://github.com/) 
+[![PDF Ready](https://img.shields.io/badge/PDF-Available-blue)](https://github.com/)
+
+This repository demonstrates a comprehensive **security audit** for the fictional company **Botium Toys**, showcasing expertise in **risk assessment, controls evaluation, and compliance with international standards**. It includes downloadable PDF reports detailing audit scope, goals, risk assessment, controls evaluation, and actionable recommendations.
 
 ## Available Documents
 
@@ -19,7 +23,11 @@ The PDFs are located in the `pdfs/` folder and can be downloaded directly:
 - [Download PDF](pdfs/controls-compliance-checklist.pdf)
 
 ## Key Skills Demonstrated
-- Conducting **security risk assessments**.
-- Knowledge of **compliance frameworks**.
-- Creating **clear documentation for stakeholders**.
+- Conducting **security risk assessments** and audits.
+- Applying knowledge of **international compliance frameworks**.
+- Creating **professional documentation** for stakeholders.
 - **Prioritizing remediation steps** based on risk and impact.
+
+---
+
+*This repository serves as a portfolio piece to demonstrate professional cybersecurity auditing capabilities for potential employers or collaborators worldwide.*
